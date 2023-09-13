@@ -1,4 +1,4 @@
-22210537264728393
+22215621273344371
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64826,6 +64826,27 @@ Through hole pin header THT 2x17 2.54mm double row
 0
 34
 34
+OmegaGOTEK_Library
+LED-SEG-TH_SLR0403BRA1BD
+
+
+0
+12
+12
+OmegaGOTEK_Library
+LQFP-64_L10.0-W10.0-P0.50-LS12.0-BL
+
+
+0
+64
+64
+OmegaGOTEK_Library
+SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL
+
+
+0
+16
+16
 OptoDevice
 ADNS-9800
 Laser Gaming Sensor ADNS-9800

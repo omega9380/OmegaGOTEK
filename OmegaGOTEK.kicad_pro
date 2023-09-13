@@ -243,7 +243,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "OmegaGOTEK_Library"
+    ],
     "pinned_symbol_libs": [
       "OmegaGOTEK_Library"
     ]
