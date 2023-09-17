@@ -107,7 +107,7 @@
   (pad "10" thru_hole circle (at -1.27 -6.35) (size 1.52 1.52) (drill 0.9144) (layers "*.Cu" "*.Mask") (tstamp bdd37919-0cd1-4fb6-862c-ad91f7efc0e8))
   (pad "11" thru_hole circle (at -3.81 -6.35) (size 1.52 1.52) (drill 0.9144) (layers "*.Cu" "*.Mask") (tstamp 8d7b4161-8b6d-4eeb-80f1-61a39673d3b5))
   (pad "12" thru_hole circle (at -6.35 -6.35) (size 1.52 1.52) (drill 0.9144) (layers "*.Cu" "*.Mask") (tstamp 17e13e0a-9448-434a-8e78-c7ad2ab78d19))
-  (model "/mnt/e/easyeda/SLR0403BRA1BD.3dshapes/LED-SEG-TH_12P-L30.1-W16.0-H7.0-LS12.7-P2.54.wrl"
+  (model "${KIPRJMOD}/EasyEDA/SLR0403BRA1BD.3dshapes/LED-SEG-TH_12P-L30.1-W16.0-H7.0-LS12.7-P2.54.wrl"
     (offset (xyz 0 -0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

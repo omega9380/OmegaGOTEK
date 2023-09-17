@@ -113,7 +113,7 @@
   (pad "62" smd oval (at -5.75 2.75) (size 2 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bfb02a47-3393-40fc-af05-07eb699f4d08))
   (pad "63" smd oval (at -5.75 3.25) (size 2 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fae056e9-9b4f-4e06-add5-360d30423855))
   (pad "64" smd oval (at -5.75 3.75) (size 2 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp db70ff77-d9a2-4edc-9dcc-bc66526a965b))
-  (model "e:/easyeda/AT32F435RGT7.3dshapes/LQFP-64_L10.0-W10.0-H1.4-LS12.0-P0.50.wrl"
+  (model "${KIPRJMOD}/EasyEDA/AT32F435RGT7.3dshapes/LQFP-64_L10.0-W10.0-H1.4-LS12.0-P0.50.wrl"
     (offset (xyz 0 -0 -0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

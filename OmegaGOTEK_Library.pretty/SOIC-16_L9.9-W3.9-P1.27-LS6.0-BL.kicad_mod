@@ -45,7 +45,7 @@
   (pad "14" smd oval (at -1.91 -2.74) (size 0.6 1.97) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f1d5d566-16df-4752-8e69-cac139787e2d))
   (pad "15" smd oval (at -3.18 -2.74) (size 0.6 1.97) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d15d4a80-b168-4cc1-91b8-7e0f8c476006))
   (pad "16" smd oval (at -4.45 -2.74) (size 0.6 1.97) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2190d199-917b-4d45-b40e-7b15d2a2caae))
-  (model "/mnt/e/easyeda/TM1651.3dshapes/SOIC-16_L9.9-W3.9-H1.8-LS6.0-P1.27.wrl"
+  (model "${KIPRJMOD}/EasyEDA/TM1651.3dshapes/SOIC-16_L9.9-W3.9-H1.8-LS6.0-P1.27.wrl"
     (offset (xyz 0 -0 -0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
